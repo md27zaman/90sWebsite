@@ -1,0 +1,54 @@
+﻿body
+{
+	margin:0px;
+	padding:0px;
+}
+#container{
+	color:red;
+}
+#logo{
+	float :left;
+
+}
+.navbar{
+	float :left;
+	
+}
+.navbar a{
+	float :left;
+	border:2px solid black;
+	font-weight:bold;
+	color:black;
+	padding:10px;
+	list-style:none;
+	text-decoration:none;
+	margin:5px;
+
+}
+
+#content{
+	clear:both;
+	float:left;
+}
+#categories{
+	float:left;
+}
+
+#content2{
+	clear:both;
+	
+}
+#categories2{
+	
+}
+
+.navbar2{
+	float:left;
+	
+}
+.navbar2 a{
+	
+	padding:10px;
+	
+
+}
